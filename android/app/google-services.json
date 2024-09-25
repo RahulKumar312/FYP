@@ -1,0 +1,29 @@
+{
+  "project_info": {
+    "project_number": "135903103885",
+    "project_id": "home-care-90fef",
+    "storage_bucket": "home-care-90fef.appspot.com"
+  },
+  "client": [
+    {
+      "client_info": {
+        "mobilesdk_app_id": "1:135903103885:android:f0bf841f8cbbe65669cbc4",
+        "android_client_info": {
+          "package_name": "com.example.servant_industry_hiring"
+        }
+      },
+      "oauth_client": [],
+      "api_key": [
+        {
+          "current_key": "AIzaSyApO7v9kiJ-nkynyOPf4dptpeIcGqEWu8o"
+        }
+      ],
+      "services": {
+        "appinvite_service": {
+          "other_platform_oauth_client": []
+        }
+      }
+    }
+  ],
+  "configuration_version": "1"
+}
